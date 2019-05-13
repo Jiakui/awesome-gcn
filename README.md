@@ -38,4 +38,8 @@
 1. [yysijie/st-gcn](https://github.com/yysijie/st-gcn),   Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch, [**949 stars**]
 
 
-## 
+##  Anomaly Detection:
+1. [jx-zhong-for-academic-purpose/GCN-Anomaly-Detection](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection), Placeholder of the source codes in CVPR 2019: Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection. 
+
+2. [kaize0409/GCN_AnomalyDetection](https://github.com/kaize0409/GCN_AnomalyDetection), Code for Deep Anomaly Detection on Attributed Networks (SDM2019).
+
