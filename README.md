@@ -43,3 +43,7 @@
 
 2. [kaize0409/GCN_AnomalyDetection](https://github.com/kaize0409/GCN_AnomalyDetection), Code for Deep Anomaly Detection on Attributed Networks (SDM2019).
 
+
+##  Image Segmentation: 
+1. [fidler-lab/curve-gcn](https://github.com/fidler-lab/curve-gcn), Official PyTorch code for Curve-GCN (CVPR 2019), [**423 stars**]
+
