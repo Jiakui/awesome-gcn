@@ -10,6 +10,8 @@
 
 2. [1049451037/GCN-Align](https://github.com/1049451037/GCN-Align), Code of the paper: Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.,  [**32 stars**]
 
+3. [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction), Implementation of R-GCNs for Relational Link Prediction, [**104 stars**]
+
 
 ## Relation Extraction:
 
@@ -17,7 +19,6 @@
 
 2. [malllabiisc/RESIDE](https://github.com/malllabiisc/RESIDE), EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information,  [**104 stars**]
 
-3. [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction), Implementation of R-GCNs for Relational Link Prediction, [**104 stars**]
 
 
 ## Text Classification: 
