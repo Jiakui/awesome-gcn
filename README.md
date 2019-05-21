@@ -54,11 +54,11 @@
 ![](https://img.shields.io/github/stars/kaize0409/GCN_AnomalyDetection.svg)
 
 ## Face Clustering: 
-1. [Zhongdao/gcn_clustering](https://github.com/Zhongdao/gcn_clustering), Code for CVPR'19 paper Linkage-based Face Clustering via GCN 
+1. [Zhongdao/gcn_clustering](https://github.com/Zhongdao/gcn_clustering), Code for CVPR'19 paper Linkage-based Face Clustering via GCN, 
 ![](https://img.shields.io/github/stars/Zhongdao/gcn_clustering.svg)
 
 
-2. [yl-1993/learn-to-cluster](https://github.com/yl-1993/learn-to-cluster),  Learning to Cluster Faces on an Affinity Graph (CVPR 2019)  
+2. [yl-1993/learn-to-cluster](https://github.com/yl-1993/learn-to-cluster),  Learning to Cluster Faces on an Affinity Graph (CVPR 2019), 
 ![](https://img.shields.io/github/stars/yl-1993/learn-to-cluster.svg)
 
 
@@ -69,7 +69,7 @@
 
 ## Image Classification: 
 
-1. [chenzhaomin123/ML_GCN](https://github.com/chenzhaomin123/ML_GCN), PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019.  
+1. [chenzhaomin123/ML_GCN](https://github.com/chenzhaomin123/ML_GCN), PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019, 
 ![](https://img.shields.io/github/stars/chenzhaomin123/ML_GCN.svg)
 
 
