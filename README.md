@@ -25,7 +25,7 @@
 
 
 ## Text Classification: 
-1. [yao8839836/text_gcn](https://github.com/yao8839836/text_gcn), Graph Convolutional Networks for Text Classification. AAAI 2019  
+1. [yao8839836/text_gcn](https://github.com/yao8839836/text_gcn), Graph Convolutional Networks for Text Classification. AAAI 2019, 
 ![](https://img.shields.io/github/stars/yao8839836/text_gcn.svg)
 
 ## NER:
