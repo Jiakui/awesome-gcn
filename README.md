@@ -12,8 +12,8 @@
 2. [1049451037/GCN-Align](https://github.com/1049451037/GCN-Align), Code of the paper: Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.
 ![](https://img.shields.io/github/stars/tkipf/relational-gcn.svg)
 
-3. [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction), Implementation of R-GCNs for Relational Link Prediction, 
-![](https://img.shields.io/github/stars/1049451037/GCN-Align.svg)
+3. [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction), Implementation of R-GCNs for Relational Link Prediction
+![](https://img.shields.io/github/stars/MichSchli/RelationPrediction.svg)
 
 ## Relation Extraction:
 
