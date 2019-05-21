@@ -17,10 +17,10 @@
 
 ## Relation Extraction:
 
-1. [qipeng/gcn-over-pruned-trees](https://github.com/qipeng/gcn-over-pruned-trees),  Graph Convolution over Pruned Dependency Trees Improves Relation Extraction (authors' PyTorch implementation)  
+1. [qipeng/gcn-over-pruned-trees](https://github.com/qipeng/gcn-over-pruned-trees),  Graph Convolution over Pruned Dependency Trees Improves Relation Extraction (authors' PyTorch implementation), 
 ![](https://img.shields.io/github/stars/qipeng/gcn-over-pruned-trees.svg)
 
-2. [malllabiisc/RESIDE](https://github.com/malllabiisc/RESIDE), EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information  
+2. [malllabiisc/RESIDE](https://github.com/malllabiisc/RESIDE), EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information, 
 ![](https://img.shields.io/github/stars/malllabiisc/RESIDE.svg)
 
 
