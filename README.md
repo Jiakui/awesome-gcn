@@ -6,7 +6,8 @@
 
 ## Knowledge Graph:
 
-1. [tkipf/relational-gcn](https://github.com/tkipf/relational-gcn), Keras-based implementation of Relational Graph Convolutional Networks,  [**340 stars**]  ![](https://img.shields.io/github/stars/tkipf/relational-gcn.svg)
+1. [tkipf/relational-gcn](https://github.com/tkipf/relational-gcn), Keras-based implementation of Relational Graph Convolutional Networks,  [**340 stars**]  
+![](https://img.shields.io/github/stars/tkipf/relational-gcn.svg)
 
 2. [1049451037/GCN-Align](https://github.com/1049451037/GCN-Align), Code of the paper: Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.,  [**32 stars**]
 
