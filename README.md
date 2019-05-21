@@ -12,7 +12,7 @@
 2. [1049451037/GCN-Align](https://github.com/1049451037/GCN-Align), Code of the paper: Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.,  
 ![](https://img.shields.io/github/stars/tkipf/relational-gcn.svg)
 
-3. [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction), Implementation of R-GCNs for Relational Link Prediction, [**104 stars**]
+3. [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction), Implementation of R-GCNs for Relational Link Prediction, 
 ![](https://img.shields.io/github/stars/1049451037/GCN-Align.svg)
 
 ## Relation Extraction:
@@ -20,16 +20,16 @@
 1. [qipeng/gcn-over-pruned-trees](https://github.com/qipeng/gcn-over-pruned-trees),  Graph Convolution over Pruned Dependency Trees Improves Relation Extraction (authors' PyTorch implementation) ,  
 ![](https://img.shields.io/github/stars/qipeng/gcn-over-pruned-trees.svg)
 
-2. [malllabiisc/RESIDE](https://github.com/malllabiisc/RESIDE), EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information,  [**104 stars**]
+2. [malllabiisc/RESIDE](https://github.com/malllabiisc/RESIDE), EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information,  
 ![](https://img.shields.io/github/stars/malllabiisc/RESIDE.svg)
 
 
 ## Text Classification: 
-1. [yao8839836/text_gcn](https://github.com/yao8839836/text_gcn), Graph Convolutional Networks for Text Classification. AAAI 2019, [**272 stars**]
+1. [yao8839836/text_gcn](https://github.com/yao8839836/text_gcn), Graph Convolutional Networks for Text Classification. AAAI 2019, 
 ![](https://img.shields.io/github/stars/yao8839836/text_gcn.svg)
 
 ## NER:
-1. [ContextScout/gcn_ner](https://github.com/ContextScout/gcn_ner), Graph Convolutional neural network named entity recognition, [**58 stars**]
+1. [ContextScout/gcn_ner](https://github.com/ContextScout/gcn_ner), Graph Convolutional neural network named entity recognition, 
 ![](https://img.shields.io/github/stars/ContextScout/gcn_ner.svg)
 
 
@@ -42,7 +42,7 @@
 
 ## Skeleton-Based Action Recognition:
 
-1. [yysijie/st-gcn](https://github.com/yysijie/st-gcn),   Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch, [**949 stars**]
+1. [yysijie/st-gcn](https://github.com/yysijie/st-gcn),   Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch, 
 ![](https://img.shields.io/github/stars/yysijie/st-gcn.svg)
 
 
@@ -54,27 +54,27 @@
 ![](https://img.shields.io/github/stars/kaize0409/GCN_AnomalyDetection.svg)
 
 ## Face Clustering: 
-1. [Zhongdao/gcn_clustering](https://github.com/Zhongdao/gcn_clustering), Code for CVPR'19 paper Linkage-based Face Clustering via GCN, [**45 stars**]
+1. [Zhongdao/gcn_clustering](https://github.com/Zhongdao/gcn_clustering), Code for CVPR'19 paper Linkage-based Face Clustering via GCN, 
 ![](https://img.shields.io/github/stars/Zhongdao/gcn_clustering.svg)
 
 
-2. [yl-1993/learn-to-cluster](https://github.com/yl-1993/learn-to-cluster),  Learning to Cluster Faces on an Affinity Graph (CVPR 2019), [**51 stars**]
+2. [yl-1993/learn-to-cluster](https://github.com/yl-1993/learn-to-cluster),  Learning to Cluster Faces on an Affinity Graph (CVPR 2019), 
 ![](https://img.shields.io/github/stars/yl-1993/learn-to-cluster.svg)
 
 
 ##  Image Segmentation: 
-1. [fidler-lab/curve-gcn](https://github.com/fidler-lab/curve-gcn), Official PyTorch code for Curve-GCN (CVPR 2019), [**423 stars**]
+1. [fidler-lab/curve-gcn](https://github.com/fidler-lab/curve-gcn), Official PyTorch code for Curve-GCN (CVPR 2019), 
 ![](https://img.shields.io/github/stars/fidler-lab/curve-gcn.svg)
 
 
 ## Image Classification: 
 
-1. [chenzhaomin123/ML_GCN](https://github.com/chenzhaomin123/ML_GCN), PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019. , [**275 stars**]
+1. [chenzhaomin123/ML_GCN](https://github.com/chenzhaomin123/ML_GCN), PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019. ,  
 ![](https://img.shields.io/github/stars/chenzhaomin123/ML_GCN.svg)
 
 
 ## Traffic Flow: 
-1. [lehaifeng/T-GCN](https://github.com/lehaifeng/T-GCN), Temporal Graph Convolutional Network for Urban Traffic Flow Prediction Method,  [**57 stars**]
+1. [lehaifeng/T-GCN](https://github.com/lehaifeng/T-GCN), Temporal Graph Convolutional Network for Urban Traffic Flow Prediction Method,  
 ![](https://img.shields.io/github/stars/lehaifeng/T-GCN.svg)
 
 
