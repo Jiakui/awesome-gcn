@@ -28,6 +28,10 @@
 1. [yao8839836/text_gcn](https://github.com/yao8839836/text_gcn), Graph Convolutional Networks for Text Classification. AAAI 2019, 
 ![](https://img.shields.io/github/stars/yao8839836/text_gcn.svg)
 
+2. [yuanluo/text_gcn_tutorial](https://github.com/yuanluo/text_gcn_tutorial), This tutorial (currently under development) is based on the implementation of Text GCN in our paper: Liang Yao, Chengsheng Mao, Yuan Luo. "Graph Convolutional Networks for Text Classification." In 33rd AAAI Conference on Artificial Intelligence (AAAI-19), 
+![](https://img.shields.io/github/stars/yuanluo/text_gcn_tutorial.svg)
+
+
 ## NER:
 1. [ContextScout/gcn_ner](https://github.com/ContextScout/gcn_ner), Graph Convolutional neural network named entity recognition 
 ![](https://img.shields.io/github/stars/ContextScout/gcn_ner.svg)
