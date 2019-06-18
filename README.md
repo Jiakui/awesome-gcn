@@ -5,8 +5,17 @@
 # Github Repositories: 
 
 
-## implement:
+## Implement:
 
+
+## Improved GCN:
+1. [lightaime/deep_gcns](https://github.com/lightaime/deep_gcns), Repo for "Can GCNs Go as Deep as CNNs?", 
+![](https://img.shields.io/github/stars/lightaime/deep_gcns.svg)
+
+
+## Example & Tutorial: 
+1. [dbusbridge/gcn_tutorial](https://github.com/dbusbridge/gcn_tutorial),  A tutorial on Graph Convolutional Neural Networks, 
+![](https://img.shields.io/github/stars/dbusbridge/gcn_tutorial.svg)
 
 
 ## Knowledge Graph:
@@ -40,11 +49,25 @@
 ![](https://img.shields.io/github/stars/plkmo/Bible_Text_GCN.svg)
 
 
+## Word Embedding: 
+3. [malllabiisc/WordGCN](https://github.com/malllabiisc/WordGCN), ACL 2019: Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks, 
+![](https://img.shields.io/github/stars/malllabiisc/WordGCN.svg)
+
+
 
 ## NER:
-1. [ContextScout/gcn_ner](https://github.com/ContextScout/gcn_ner), Graph Convolutional neural network named entity recognition 
+1. [ContextScout/gcn_ner](https://github.com/ContextScout/gcn_ner), Graph Convolutional neural network named entity recognition, 
 ![](https://img.shields.io/github/stars/ContextScout/gcn_ner.svg)
 
+
+## QA: 
+1. [berc-uoft/Transformer-GCN-QA](https://github.com/berc-uoft/Transformer-GCN-QA), A multi-hop Q/A architecture based on transformers and GCNs,
+![](https://img.shields.io/github/stars/berc-uoft/Transformer-GCN-QA.svg)
+
+
+##  Coreference Resolution: 
+1. [ianycxu/RGCN-with-BERT](https://github.com/ianycxu/RGCN-with-BERT), Graph Convolutional Networks (GCN) with BERT for Coreference Resolution Task [Pytorch][DGL],
+![](https://img.shields.io/github/stars/ianycxu/RGCN-with-BERT.svg)
 
 
 ## Recommendation: 
@@ -94,6 +117,17 @@
 1. [chenzhaomin123/ML_GCN](https://github.com/chenzhaomin123/ML_GCN), PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019, 
 ![](https://img.shields.io/github/stars/chenzhaomin123/ML_GCN.svg)
 
+2. [rusty1s/graph-based-image-classification](https://github.com/rusty1s/graph-based-image-classification),Implementation of Planar Graph Convolutional Networks in TensorFlow, 
+![](https://img.shields.io/github/stars/rusty1s/graph-based-image-classification.svg)
+
+2. [avirambh/MSDNet-GCN](https://github.com/avirambh/MSDNet-GCN),ICLR 2018 reproducibility challenge - Multi-Scale Dense Convolutional Networks for Efficient Prediction, 
+![](https://img.shields.io/github/stars/avirambh/MSDNet-GCN.svg)
+
+2. [JudyYe/zero-shot-gcn](https://github.com/JudyYe/zero-shot-gcn),Zero-Shot Learning with GCN (CVPR 2018), 
+![](https://img.shields.io/github/stars/JudyYe/zero-shot-gcn.svg)
+
+
+
 
 ## Traffic Flow: 
 1. [lehaifeng/T-GCN](https://github.com/lehaifeng/T-GCN), Temporal Graph Convolutional Network for Urban Traffic Flow Prediction Method 
@@ -102,9 +136,26 @@
 1. [FrancesZhou/GCNTrafficPrediction](https://github.com/FrancesZhou/GCNTrafficPrediction), 
 ![](https://img.shields.io/github/stars/FrancesZhou/GCNTrafficPrediction.svg)
 
+## Disease Prediction: 
+2. [parisots/population-gcn](https://github.com/parisots/population-gcn),Graph CNNs for population graphs: classification of the ABIDE dataset, 
+![](https://img.shields.io/github/stars/parisots/population-gcn.svg)
+
+
+
 ## Path Prediction:
 1. [Zhenye-Na/gcn-spp](https://github.com/Zhenye-Na/gcn-spp), Shortest Path prediction using Graph Convolutional Networks, 
 ![](https://img.shields.io/github/stars/Zhenye-Na/gcn-spp.svg)
+
+## 3D Point Cloud: 
+1. [maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification](https://github.com/maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification), Code for A GRAPH-CNN FOR 3D POINT CLOUD CLASSIFICATION (ICASSP 2018), 
+![](https://img.shields.io/github/stars/maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification.svg)
+
+
+1. [jiexiong2016/GCNv2_SLAM](https://github.com/jiexiong2016/GCNv2_SLAM), Real-time SLAM system with deep features, 
+![](https://img.shields.io/github/stars/jiexiong2016/GCNv2_SLAM.svg)
+
+
+
 
 ## Image Search: 
 1. [sjtuzq/person_search_gcn](https://github.com/sjtuzq/person_search_gcn), This repository hosts the code for our paper “Learning Context Graph for Person Search”, CVPR2019 Oral
