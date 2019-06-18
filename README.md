@@ -6,6 +6,16 @@
 
 
 ## Implement:
+1. [tkipf/gcn](https://github.com/tkipf/gcn), Implementation of Graph Convolutional Networks in TensorFlow, 
+![](https://img.shields.io/github/stars/tkipf/gcn.svg)
+
+
+2. [tkipf/keras-gcn](https://github.com/tkipf/keras-gcn), Keras implementation of Graph Convolutional Networks, 
+![](https://img.shields.io/github/stars/tkipf/keras-gcn.svg)
+
+
+3. [OCEChain/GCN](https://github.com/OCEChain/GCN), Graph Convolutional Networks", 
+![](https://img.shields.io/github/stars/OCEChain/GCN.svg)
 
 
 ## Improved GCN:
