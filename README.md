@@ -4,6 +4,11 @@
 
 # Github Repositories: 
 
+
+## implement:
+
+
+
 ## Knowledge Graph:
 
 1. [tkipf/relational-gcn](https://github.com/tkipf/relational-gcn), Keras-based implementation of Relational Graph Convolutional Networks 
@@ -30,6 +35,10 @@
 
 2. [yuanluo/text_gcn_tutorial](https://github.com/yuanluo/text_gcn_tutorial), This tutorial (currently under development) is based on the implementation of Text GCN in our paper: Liang Yao, Chengsheng Mao, Yuan Luo. "Graph Convolutional Networks for Text Classification." In 33rd AAAI Conference on Artificial Intelligence (AAAI-19), 
 ![](https://img.shields.io/github/stars/yuanluo/text_gcn_tutorial.svg)
+
+3. [plkmo/Bible_Text_GCN](https://github.com/plkmo/Bible_Text_GCN), Text-Based Graph Convolution Network, 
+![](https://img.shields.io/github/stars/plkmo/Bible_Text_GCN.svg)
+
 
 
 ## NER:
@@ -66,6 +75,15 @@
 ![](https://img.shields.io/github/stars/yl-1993/learn-to-cluster.svg)
 
 
+## Person Attribute Recognition:
+2. [2014gaokao/pedestrian-attribute-recognition-with-GCN](https://github.com/2014gaokao/pedestrian-attribute-recognition-with-GCN),  GCN for pedestrian attribute recognition in surveillance scenarios, 
+![](https://img.shields.io/github/stars/2014gaokao/pedestrian-attribute-recognition-with-GCN.svg)
+
+## Person Search: 
+1. [sjtuzq/person_search_gcn](https://github.com/sjtuzq/person_search_gcn), This repository hosts the code for our paper “Learning Context Graph for Person Search”, CVPR2019 Oral, 
+![](https://img.shields.io/github/stars/sjtuzq/person_search_gcn.svg)
+
+
 ##  Image Segmentation: 
 1. [fidler-lab/curve-gcn](https://github.com/fidler-lab/curve-gcn), Official PyTorch code for Curve-GCN (CVPR 2019), 
 ![](https://img.shields.io/github/stars/fidler-lab/curve-gcn.svg)
@@ -81,6 +99,12 @@
 1. [lehaifeng/T-GCN](https://github.com/lehaifeng/T-GCN), Temporal Graph Convolutional Network for Urban Traffic Flow Prediction Method 
 ![](https://img.shields.io/github/stars/lehaifeng/T-GCN.svg)
 
+1. [FrancesZhou/GCNTrafficPrediction](https://github.com/FrancesZhou/GCNTrafficPrediction), 
+![](https://img.shields.io/github/stars/FrancesZhou/GCNTrafficPrediction.svg)
+
+## Path Prediction:
+1. [Zhenye-Na/gcn-spp](https://github.com/Zhenye-Na/gcn-spp), Shortest Path prediction using Graph Convolutional Networks, 
+![](https://img.shields.io/github/stars/Zhenye-Na/gcn-spp.svg)
 
 ## Image Search: 
 1. [sjtuzq/person_search_gcn](https://github.com/sjtuzq/person_search_gcn), This repository hosts the code for our paper “Learning Context Graph for Person Search”, CVPR2019 Oral
