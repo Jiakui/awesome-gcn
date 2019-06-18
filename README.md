@@ -166,8 +166,3 @@
 
 
 
-
-## Image Search: 
-1. [sjtuzq/person_search_gcn](https://github.com/sjtuzq/person_search_gcn), This repository hosts the code for our paper “Learning Context Graph for Person Search”, CVPR2019 Oral
- ![](https://img.shields.io/github/stars/sjtuzq/person_search_gcn.svg)
- 
