@@ -14,8 +14,20 @@
 ![](https://img.shields.io/github/stars/tkipf/keras-gcn.svg)
 
 
-3. [OCEChain/GCN](https://github.com/OCEChain/GCN), Graph Convolutional Networks", 
+3. [OCEChain/GCN](https://github.com/OCEChain/GCN), Graph Convolutional Networks, 
 ![](https://img.shields.io/github/stars/OCEChain/GCN.svg)
+
+4. [PetarV-/GAT](https://github.com/PetarV-/GAT), Graph Attention Networks (https://arxiv.org/abs/1710.10903), 
+![](https://img.shields.io/github/stars/PetarV-/GAT.svg)
+
+
+5. [Diego999/pyGAT](https://github.com/Diego999/pyGAT), Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903), 
+![](https://img.shields.io/github/stars/Diego999/pyGAT.svg)
+
+
+6. [mp2893/gram](https://github.com/mp2893/gram), Graph-based Attention Model, 
+![](https://img.shields.io/github/stars/mp2893/gram.svg)
+
 
 
 ## Improved GCN:
