@@ -29,6 +29,15 @@
 ![](https://img.shields.io/github/stars/mp2893/gram.svg)
 
 
+7. [danielegrattarola/keras-gat](https://github.com/danielegrattarola/keras-gat), Keras implementation of the graph attention networks (GAT) by Veličković et al. (2017; https://arxiv.org/abs/1710.10903), 
+![](https://img.shields.io/github/stars/danielegrattarola/keras-gat.svg)
+
+8. [Luckick/EAGCN](https://github.com/Luckick/EAGCN), Implementation of Edge Attention based Multi-relational Graph Convolutional Networks, 
+![](https://img.shields.io/github/stars/Luckick/EAGCN.svg)
+
+
+
+
 
 ## Improved GCN:
 1. [lightaime/deep_gcns](https://github.com/lightaime/deep_gcns), Repo for "Can GCNs Go as Deep as CNNs?", 
@@ -51,6 +60,15 @@
 3. [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction), Implementation of R-GCNs for Relational Link Prediction
 ![](https://img.shields.io/github/stars/MichSchli/RelationPrediction.svg)
 
+4. [xiangwang1223/knowledge_graph_attention_network](https://github.com/xiangwang1223/knowledge_graph_attention_network), KGAT: Knowledge Graph Attention Network for Recommendation, KDD2019,
+![](https://img.shields.io/github/stars/xiangwang1223/knowledge_graph_attention_network.svg)
+
+5. [deepakn97/relationPrediction](https://github.com/deepakn97/relationPrediction), ACL 2019: Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs, 
+![](https://img.shields.io/github/stars/deepakn97/relationPrediction.svg)
+
+
+
+
 ## Relation Extraction:
 
 1. [qipeng/gcn-over-pruned-trees](https://github.com/qipeng/gcn-over-pruned-trees),  Graph Convolution over Pruned Dependency Trees Improves Relation Extraction (authors' PyTorch implementation), 
@@ -58,6 +76,10 @@
 
 2. [malllabiisc/RESIDE](https://github.com/malllabiisc/RESIDE), EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information, 
 ![](https://img.shields.io/github/stars/malllabiisc/RESIDE.svg)
+
+3. [Cartus/AGGCN_TACRED](https://github.com/Cartus/AGGCN_TACRED), Attention Guided Graph Convolutional Networks for Relation Extraction (authors' PyTorch implementation for the ACL19 paper), 
+![](https://img.shields.io/github/stars/Cartus/AGGCN_TACRED.svg)
+
 
 
 ## Text Classification: 
@@ -69,6 +91,9 @@
 
 3. [plkmo/Bible_Text_GCN](https://github.com/plkmo/Bible_Text_GCN), Text-Based Graph Convolution Network, 
 ![](https://img.shields.io/github/stars/plkmo/Bible_Text_GCN.svg)
+
+4. [iamjagdeesh/Fake-News-Detection](https://github.com/iamjagdeesh/Fake-News-Detection), Fake news detector based on the content and users associated with it using BERT and Graph Attention Networks (GAT)., 
+![](https://img.shields.io/github/stars/iamjagdeesh/Fake-News-Detection.svg)
 
 
 ## Word Embedding: 
@@ -155,8 +180,13 @@
 1. [lehaifeng/T-GCN](https://github.com/lehaifeng/T-GCN), Temporal Graph Convolutional Network for Urban Traffic Flow Prediction Method 
 ![](https://img.shields.io/github/stars/lehaifeng/T-GCN.svg)
 
-1. [FrancesZhou/GCNTrafficPrediction](https://github.com/FrancesZhou/GCNTrafficPrediction), 
+2. [FrancesZhou/GCNTrafficPrediction](https://github.com/FrancesZhou/GCNTrafficPrediction), 
 ![](https://img.shields.io/github/stars/FrancesZhou/GCNTrafficPrediction.svg)
+
+3. [Davidham3/ASTGCN](https://github.com/Davidham3/ASTGCN), Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting (ASTGCN) AAAI 2019,
+![](https://img.shields.io/github/stars/Davidham3/ASTGCN.svg)
+
+
 
 ## Disease Prediction: 
 2. [parisots/population-gcn](https://github.com/parisots/population-gcn),Graph CNNs for population graphs: classification of the ABIDE dataset, 
@@ -168,6 +198,12 @@
 1. [Zhenye-Na/gcn-spp](https://github.com/Zhenye-Na/gcn-spp), Shortest Path prediction using Graph Convolutional Networks, 
 ![](https://img.shields.io/github/stars/Zhenye-Na/gcn-spp.svg)
 
+2. [raphaelavalos/attention_tsp_graph_net](https://github.com/raphaelavalos/attention_tsp_graph_net), Implementation of Attention Solves Your TSP, Approximately (W. Kool et al.) with the DeepMind's Graph Nets library, 
+![](https://img.shields.io/github/stars/raphaelavalos/attention_tsp_graph_net.svg)
+
+
+
+
 ## 3D Point Cloud: 
 1. [maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification](https://github.com/maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification), Code for A GRAPH-CNN FOR 3D POINT CLOUD CLASSIFICATION (ICASSP 2018), 
 ![](https://img.shields.io/github/stars/maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification.svg)
@@ -177,4 +213,15 @@
 ![](https://img.shields.io/github/stars/jiexiong2016/GCNv2_SLAM.svg)
 
 
+## Graph To Sequence: 
+1. [wngzhiqi/Graph2Seq-Graph-to-Sequence-Learning-with-Attention-Based-Neural-Networks](https://github.com/wngzhiqi/Graph2Seq-Graph-to-Sequence-Learning-with-Attention-Based-Neural-Networks), This repo is project for 11785 (Deep Learning) at CMU. We are reproducing paper called "Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks"(https://arxiv.org/pdf/1804.00823.pdf). Team Member: Zhiqi Wang, Ziyin Huang, Hong Du, Zhengkai Zhang, 
+![](https://img.shields.io/github/stars/wngzhiqi/Graph2Seq-Graph-to-Sequence-Learning-with-Attention-Based-Neural-Networks.svg)
 
+2. [syxu828/Graph2Seq-0.1](https://github.com/syxu828/Graph2Seq-0.1), This is the code for paper "Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks", 
+![](https://img.shields.io/github/stars/syxu828/Graph2Seq-0.1.svg)
+
+
+
+## Chemical Stability Prediction: 
+1. [MingCPU/DeepChemStable](https://github.com/MingCPU/DeepChemStable), DeepChemStable: chemical stability prediction using attention-based graph convolution network, 
+![](https://img.shields.io/github/stars/MingCPU/DeepChemStable.svg)
