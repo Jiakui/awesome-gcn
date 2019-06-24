@@ -1,4 +1,4 @@
-#  This repository is to collect GCN related resources.
+#  This repository is to collect GCN, GAT(graph attention) related resources.
 
 
 
