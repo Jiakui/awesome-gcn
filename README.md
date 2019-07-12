@@ -174,6 +174,46 @@
 ![](https://img.shields.io/github/stars/JudyYe/zero-shot-gcn.svg)
 
 
+##  Scene Graph Generation: 
+1. [NVIDIA/ContrastiveLosses4VRD](https://github.com/NVIDIA/ContrastiveLosses4VRD),Implementation for the CVPR2019 paper "Graphical Contrastive Losses for Scene Graph Generation", 
+![](https://img.shields.io/github/stars/NVIDIA/ContrastiveLosses4VRD.svg)
+
+2. [yuweihao/KERN](https://github.com/yuweihao/KERN),Code for Knowledge-Embedded Routing Network for Scene Graph Generation (CVPR 2019), 
+![](https://img.shields.io/github/stars/yuweihao/KERN.svg)
+
+3. [shijx12/XNM-Net](https://github.com/shijx12/XNM-Net),Pytorch implementation of "Explainable and Explicit Visual Reasoning over Scene Graphs ", 
+![](https://img.shields.io/github/stars/shijx12/XNM-Net.svg)
+
+4. [jiayan97/linknet-pytorch](https://github.com/jiayan97/linknet-pytorch),Pytorch reimplementation of LinkNet for Scene Graph Generation, 
+![](https://img.shields.io/github/stars/jiayan97/linknet-pytorch.svg)
+
+
+5. [Uehwan/3D-Scene-Graph](https://github.com/Uehwan/3D-Scene-Graph),3D scene graph generator implemented in Pytorch., 
+![](https://img.shields.io/github/stars/Uehwan/3D-Scene-Graph.svg)
+
+
+6. [Kenneth-Wong/sceneGraph_Mem](https://github.com/Kenneth-Wong/sceneGraph_Mem),Codes for CVPR 2019: Exploring Context and Visual Pattern of Relationship for Scene Graph Generation, Wenbin Wang, Ruiping Wang, Shiguang Shan, Xilin Chen, CVPR 2019., 
+![](https://img.shields.io/github/stars/Kenneth-Wong/sceneGraph_Mem.svg)
+
+
+7. [danfeiX/scene-graph-TF-release](https://github.com/danfeiX/scene-graph-TF-release),"Scene Graph Generation by Iterative Message Passing" code repository http://cs.stanford.edu/~danfei/scene-…, 
+![](https://img.shields.io/github/stars/danfeiX/scene-graph-TF-release.svg)
+
+
+8. [google/sg2im](https://github.com/google/sg2im),Code for "Image Generation from Scene Graphs", Johnson et al, CVPR 2018, 
+![](https://img.shields.io/github/stars/google/sg2im.svg)
+
+
+9. [rowanz/neural-motifs](https://github.com/rowanz/neural-motifs),Code for Neural Motifs: Scene Graph Parsing with Global Context (CVPR 2018) https://rowanzellers.com/neuralmotifs, 
+![](https://img.shields.io/github/stars/rowanz/neural-motifs.svg)
+
+10. [jwyang/graph-rcnn.pytorch](https://github.com/jwyang/graph-rcnn.pytorch),Pytorch code for our ECCV 2018 paper "Graph R-CNN for Scene Graph Generation" and other papers, 
+![](https://img.shields.io/github/stars/jwyang/graph-rcnn.pytorch.svg)
+
+11. [yikang-li/FactorizableNet](https://github.com/yikang-li/FactorizableNet), Factorizable Net (Multi-GPU version): An Efficient Subgraph-based Framework for Scene Graph Generation, 
+![](https://img.shields.io/github/stars/yikang-li/FactorizableNet.svg)
+
+
 
 
 ## Traffic Flow: 
